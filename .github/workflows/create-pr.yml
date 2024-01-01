@@ -1,4 +1,4 @@
-name: Automatically create pull request
+name: Create pull request
 
 on:
   push:
