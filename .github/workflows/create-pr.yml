@@ -1,4 +1,4 @@
-name: Create Pull Request
+name: Create Pull Request v2
 
 on:
   push:
