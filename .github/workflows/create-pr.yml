@@ -1,4 +1,4 @@
-name: Create Pull Request v3
+name: Create Pull Request
 
 on:
   push:
@@ -17,4 +17,3 @@ jobs:
           destination_branch: "main"
           pr_title: "feat: PLACEHOLDER TITLE"
           pr_reviewer: "volantebjb"
-          pr_draft: true
